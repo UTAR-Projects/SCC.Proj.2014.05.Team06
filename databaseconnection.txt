@@ -1,0 +1,14 @@
+Database connection string solve
+
+Tools ->  connect to database -> select pc sever name (mine is "ONGZJENJIN-PC") -> select radio button Attach a database file
+
+Browse the shoping.mdf file which located at App_Data
+
+then click ok button
+
+go to web .config file edit the connectionString
+
+example:
+Data Source=ONGZHENJIN-PC\ZICKONG;AttachDbFilename="C:\Users\zickong\Desktop\Online Shopping Cart Asp.Net WebForm\C#\MyProject\App_Data\shoping.mdf";Integrated Security=True;User Instance=True
+
+Hint: connection string located at string server explorer -> properties
