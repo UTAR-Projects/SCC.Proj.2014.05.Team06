@@ -14,7 +14,7 @@ Password<br />
     ControlToValidate="TextBox2" ErrorMessage="fill password"></asp:RequiredFieldValidator>
 <br />
 
-
+<br /><br />
 <asp:ImageButton ID="ImageButton3" runat="server" AlternateText="sign in" 
     onclick="ImageButton3_Click" ImageUrl="~/img/str/buttons/sign in.bmp" />
 
