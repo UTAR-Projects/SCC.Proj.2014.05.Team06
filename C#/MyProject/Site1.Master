@@ -102,7 +102,7 @@
                         <DynamicSelectedStyle BackColor="#507CD1" />
                         <Items>
                             <asp:MenuItem ImageUrl="~/img/str/buttons/home.png" NavigateUrl="~/default.aspx"
-                                ToolTip="click for home page"></asp:MenuItem>
+                                ToolTip="click for home page"></asp:MenuItem> 
                             <asp:MenuItem ImageUrl="~/img/str/buttons/Products.png" ToolTip="hower to see products">
                                 <asp:MenuItem ImageUrl="~/img/str/buttons/laptop.png" Text="Laptop" ToolTip="Laptop"
                                     Value="Laptop" NavigateUrl="~/laptop.aspx"></asp:MenuItem>
