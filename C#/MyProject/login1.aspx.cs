@@ -45,7 +45,7 @@ namespace MyProject
                     }
                     else
                     {
-                        Label1.Text = "your credential are incorrect";
+                        Label1.Text = "Incorrect User Name or Password";
                     }
                    
 
