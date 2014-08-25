@@ -15,14 +15,16 @@
         {
             margin-top: 70px;
         }
-        .header
+        div.header
         {
+            opacity: 0.4;
             width: 190px;
             background-color: #B5C7DE;
             font-weight: bolder;
             color: Black;
             font-weight: bold;
         }
+
         body
         {
             background-image: url('img/5.jpg');
@@ -36,7 +38,9 @@
         }
         #main
         {
+            opacity: 0.7;
             background-color: #B5C7DE;
+            border:2px solid black;
         }
         .add
         {
@@ -73,14 +77,14 @@
                         ToolTip="click to see developer profile" ViewStateMode="Disabled" Target="_blank"   />
                     <div class="header">
                         <h3>
-                            BHSBIET College Project</h3>
+                            University Tunku Abdul Rahman Project</h3>
                         <br />
-                        <br />
-                        Lehragaga<br />
-                        Dist. Sangrur<br />
+                        <br /><p>
+                        Zickong<br />
+                        Ong Zhen Jin<br />
                         mob:xxxxxxxxxx<br />
-                        id:pramuk97@gmail.com<br />
-                        Skype: pramuk971<br />
+                        id:zickong90@gmail.com<br />
+                        Skype: zickong<br /></p>
                         <br />
                     </div>
                 </td>
