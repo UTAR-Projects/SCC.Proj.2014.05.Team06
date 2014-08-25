@@ -80,6 +80,7 @@
     <Content Include="img\bugatti‑veyron‑main‑post‑1.jpg" />
     <Content Include="img\buy_now.png" />
     <Content Include="img\coampac presario a901tu.jpg" />
+    <Content Include="img\ColorBack.jpg" />
     <Content Include="img\dell axise7943.jpg" />
     <Content Include="img\detail.jpg" />
     <Content Include="img\hcl n30.jpg" />
@@ -124,6 +125,7 @@
     <Content Include="img\str\buttons\laptop.png" />
     <Content Include="img\str\buttons\loadingAnimation.gif" />
     <Content Include="img\str\buttons\Login.gif" />
+    <Content Include="img\str\buttons\Login2.jpg" />
     <Content Include="img\str\buttons\logout.gif" />
     <Content Include="img\str\buttons\midl.jpg" />
     <Content Include="img\str\buttons\mob.bmp" />
@@ -131,6 +133,7 @@
     <Content Include="img\str\buttons\n1.jpg" />
     <Content Include="img\str\buttons\Products.png" />
     <Content Include="img\str\buttons\Register.gif" />
+    <Content Include="img\str\buttons\Register1.jpg" />
     <Content Include="img\str\buttons\saddtocart2.gif" />
     <Content Include="img\str\buttons\sign in.bmp" />
     <Content Include="img\str\buttons\submit_blue.png" />

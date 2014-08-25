@@ -3,3 +3,7 @@ C:\Users\prakash\Desktop\MyProject R2\MyProject R2\MyProject\bin\MyProject.pdb
 C:\Users\prakash\Desktop\MyProject R2\MyProject R2\MyProject\obj\Release\ResolveAssemblyReference.cache
 C:\Users\prakash\Desktop\MyProject R2\MyProject R2\MyProject\obj\Release\MyProject.dll
 C:\Users\prakash\Desktop\MyProject R2\MyProject R2\MyProject\obj\Release\MyProject.pdb
+C:\Users\L755-1019X\Documents\GitHub\SCC\SCC.Proj.2014.05.Team06\C#\MyProject\bin\MyProject.dll
+C:\Users\L755-1019X\Documents\GitHub\SCC\SCC.Proj.2014.05.Team06\C#\MyProject\bin\MyProject.pdb
+C:\Users\L755-1019X\Documents\GitHub\SCC\SCC.Proj.2014.05.Team06\C#\MyProject\obj\Release\MyProject.dll
+C:\Users\L755-1019X\Documents\GitHub\SCC\SCC.Proj.2014.05.Team06\C#\MyProject\obj\Release\MyProject.pdb
