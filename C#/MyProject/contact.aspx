@@ -11,9 +11,8 @@
  
 
 <b>Email us with comments about this web site and Leave feedback and suggestions for our products.</b><br />
-wd.prakash@gmail.com<br />
-pramuk97@gmail.com<br />
-pramuk97@hotmail.com
+zickong90@gmail.com<br />
+zickong@hotmail.com<br />
 
 
 </asp:Content>
